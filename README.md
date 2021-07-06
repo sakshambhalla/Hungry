@@ -2,4 +2,4 @@
 Hungry is a nearby Restaurant/Food places search site that makes use of Google Maps.
 The styling of the website has been done using SCRATH CSS, and hence no other framework/library has been used for that purpose.
 
-# **[Visit Site](http://saksham-map-api.bitballoon.com)**
+# **[Visit Site](https://trusting-shockley-794a4b.netlify.app/)**
